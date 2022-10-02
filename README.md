@@ -18,4 +18,4 @@ First and foremost, my most sincere thanks and gratitude to my mentors <a href="
 
 The computer scientist/software engineer <a href="https://de.linkedin.com/in/maximilian-konzack-a94314a5">Maximilian Konzack</a>, whose post on <a href="https://komax.github.io/blog/text/python/xml/parsing_tei_xml_python/">'Parsing TEI XML documents with Python'</a> paved the way for this project.
 
-Finally, my teacher <a href="https://www.linkedin.com/in/brian-dobreski-939b42b8">Dr. Brian Dobreski</a>, professor at University of Tennessee, whose courses on metadata and Knowledge Organization Systems put me on this path.
+Finally, my teacher <a href="https://www.linkedin.com/in/brian-dobreski-939b42b8">Dr. Brian Dobreski</a>, professor at the University of Tennessee, whose courses on metadata and Knowledge Organization Systems put me on this path.
