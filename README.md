@@ -17,7 +17,7 @@ This was achieved in <a href="https://jupyter.org/">Jupyter Notebook</a> through
 
 <b>Credits:</b>
 
-My sincerest thanks to my mentors <a href="https://www.library.upenn.edu/detail/person/lynn-ransom">Dr. Lynn Ransom</a> (Project Director of the SDBM), <a href="https://www.library.upenn.edu/detail/person/douglas-emery">Doug Emery</a> (Digital Content Programmer for Special Collections at UPenn, who introduced me to Beautiful Soup and helped me grow as a programmer), as well as <a href="https://www.linkedin.com/in/kate-topham">Kate Topham</a> (my colleague in the LEADING Fellowship). I'm fortunate to have worked with such kind and knowledgeable people, whose guidance, encouragement, and support made this project possible.
+My sincerest thanks to my mentors <a href="https://www.library.upenn.edu/detail/person/lynn-ransom">Dr. Lynn Ransom</a> (Project Director of the SDBM) and <a href="https://www.library.upenn.edu/detail/person/douglas-emery">Doug Emery</a> (Digital Content Programmer for Special Collections at UPenn, who introduced me to Beautiful Soup and helped me grow as a programmer), as well as <a href="https://www.linkedin.com/in/kate-topham">Kate Topham</a> (my colleague in the LEADING Fellowship). I'm fortunate to have worked with such kind and knowledgeable people, whose guidance, encouragement, and support made this project possible.
 
 Thanks to <a href="https://drexel.edu/cci/about/directory/G/Greenberg-Jane/">Dr. Jane Greenberg</a> (director of the MRC), <a href="https://drexel.edu/cci/about/directory/G/Grabus-Samantha/">Sam Grabus</a> (LEADING Project Manager), and the rest of the team at Drexel University. The LEADING Fellowship has been such an amazing opportunity for me, and I'm grateful to have been a part of it.
 
