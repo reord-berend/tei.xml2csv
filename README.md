@@ -7,7 +7,7 @@ This project was created as part of the <a href="https://cci.drexel.edu/mrc/lead
 
 <b>Goal:</b>
 
-The goal of the project was to contribute metadata records for medieval Scandinavian manuscripts from <a href="https://handrit.is/?lang=en">Handrit.org</a>, a joint electronic catalogue of holdings from several Nordic institutions (including the <a href="https://nors.ku.dk/english/research/centres-and-groups/arnamagnaean/">Arnamagnæan Institute</a> at the University of Copenhagen, the <a href="http://landsbokasafn.is/index.php/english">the National and University Library of Iceland</a>, and the <a href="https://www.arnastofnun.is/en/language">Árni Magnússon Institute for Icelandic Studies</a>), to the <a href="https://sdbm.library.upenn.edu/">Schoenberg Database of Manuscripts (SDBM)</a>, an open-access resource that aggregates observations of premodern manuscripts from around the world. 
+The goal of the project was to contribute metadata records for medieval Scandinavian manuscripts from <a href="https://handrit.is/?lang=en">Handrit.org</a>, a joint electronic catalogue of holdings from several Nordic institutions (including the <a href="https://nors.ku.dk/english/research/centres-and-groups/arnamagnaean/">Arnamagnæan Institute</a> at the University of Copenhagen, the <a href="http://landsbokasafn.is/index.php/english">National and University Library of Iceland</a>, and the <a href="https://www.arnastofnun.is/en/language">Árni Magnússon Institute for Icelandic Studies</a>), to the <a href="https://sdbm.library.upenn.edu/">Schoenberg Database of Manuscripts (SDBM)</a>, an open-access resource that aggregates observations of premodern manuscripts from around the world. 
 
 <b>Methodology:</b>
 
