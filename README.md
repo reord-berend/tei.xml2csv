@@ -23,7 +23,7 @@ Of the 15,189 records in the full Handrit.org catalogue, only 1,951 fell within 
 
 <b>Funding:</b>
   
-This project is supported by the Institute of Museum and Library Services (IMLS) RE-246450-OLS-20
+This project was supported by the Institute of Museum and Library Services (IMLS) RE-246450-OLS-20.
 
 <b>Credits:</b>
 
