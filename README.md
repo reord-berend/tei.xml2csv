@@ -21,6 +21,10 @@ Once the code had been run successfully on the entire catalogue, the resulting C
 
 Of the 15,189 records in the full Handrit.org catalogue, only 1,951 fell within the chronological parameters (i.e., pre-1600 CE) of the SDBM, the rest were excluded. Being of Nordic origin, many of the records were written in Icelandic or Danish, and thus needed to be translated for an English-speaking audience. The spreadsheet of pre-1600 records was imported back into Jupyter Notebook, and the Python API for Google Translate (<a href="https://pypi.org/project/google-trans-new/">google_trans_new</a>, included with the Anaconda site packages) was run on specific fields (namely: titles, dates, materials, places, and binding) using indexing notation.
 
+<b>Funding:</b>
+  
+This project is supported by the Institute of Museum and Library Services (IMLS) RE-246450-OLS-20
+
 <b>Credits:</b>
 
 My sincerest thanks to my mentors <a href="https://www.library.upenn.edu/detail/person/lynn-ransom">Dr. Lynn Ransom</a> (Project Director of the SDBM) and <a href="https://www.library.upenn.edu/detail/person/douglas-emery">Doug Emery</a> (Digital Content Programmer for Special Collections at UPenn, who introduced me to Beautiful Soup and helped me grow as a programmer), as well as <a href="https://www.linkedin.com/in/kate-topham">Kate Topham</a> (my colleague in the LEADING Fellowship), whose guidance, encouragement, and support made this project possible.
