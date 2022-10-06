@@ -3,7 +3,7 @@ BeautifulSoup code to extract metadata from TEI-conformant XML files and export 
 
 <b>Background:</b>
 
-This project was created as part of the <a href="https://cci.drexel.edu/mrc/leading/">2022 LEADING Fellowship</a> through Drexel University's <a href="https://cci.drexel.edu/mrc/">Metadata Research Center (MRC)</a> in collaboration with the <a href="https://schoenberginstitute.org/">Schoenberg Institute of Manuscript Studies</a> at the <a href="https://www.library.upenn.edu/kislak">Kislak Center for Special Collections, University of Pennsylvania Libraries</a>.
+This project was created as part of the <a href="https://cci.drexel.edu/mrc/leading/">2022 LEADING Fellowship</a> through Drexel University's <a href="https://cci.drexel.edu/mrc/">Metadata Research Center (MRC)</a> in collaboration with the <a href="https://schoenberginstitute.org/">Schoenberg Institute of Manuscript Studies</a> at the <a href="https://www.library.upenn.edu/kislak">Kislak Center for Special Collections, Rare Books and Manuscripts (University of Pennsylvania Libraries)</a>.
 
 <b>Goal:</b>
 
