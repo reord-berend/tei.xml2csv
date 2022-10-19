@@ -21,6 +21,9 @@ Once the code had been run successfully on the entire catalogue, the resulting C
 
 The full Handrit.org catalogue was downloaded on 8/17/2022. Of the total 15,189 records, only 1,951 fell within the chronological parameters (i.e., pre-1600 CE) of the SDBM, the rest were excluded. Being of Nordic origin, many of the records were written in Icelandic or Danish, and thus needed to be translated for an English-speaking audience. The spreadsheet of pre-1600 records was imported back into Jupyter Notebook, and the Python API for Google Translate (<a href="https://pypi.org/project/google-trans-new/">google_trans_new</a>, included with the Anaconda site packages) was run on specific fields (namely: titles, dates, materials, places, and binding) using indexing notation.
 
+<a href="https://github.com/reord-berend/tei.xml2csv/blob/main/tei.xml2csv%20(vers.%202.1).py">Final version of TEI-XMLtoCSV code</a>
+<a href="https://github.com/reord-berend/tei.xml2csv/blob/main/translate_csv.py">Google Translate code</a>
+
 <b>Funding:</b>
   
 This project was supported by the Institute of Museum and Library Services (IMLS) RE-246450-OLS-20.
