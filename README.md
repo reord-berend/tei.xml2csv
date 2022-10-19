@@ -37,4 +37,4 @@ Thanks to <a href="https://drexel.edu/cci/about/directory/G/Greenberg-Jane/">Dr.
 
 A special mention goes to <a href="https://de.linkedin.com/in/maximilian-konzack-a94314a5">Maximilian Konzack</a> (computer scientist/software engineer), whose post on <a href="https://komax.github.io/blog/text/python/xml/parsing_tei_xml_python/">'Parsing TEI XML documents with Python'</a> provided the roadmap for this project.
 
-Last but not least, thank you to my teacher <a href="https://www.linkedin.com/in/brian-dobreski-939b42b8">Dr. Brian Dobreski</a>, professor at the University of Tennessee, whose courses sparked my interest in metadata and started me on the path that lead me here.
+Last but not least, thank you to my teacher <a href="https://www.linkedin.com/in/brian-dobreski-939b42b8">Dr. Brian Dobreski</a> (professor at the University of Tennessee), whose courses sparked my interest in metadata and started me on the path that lead me here.
