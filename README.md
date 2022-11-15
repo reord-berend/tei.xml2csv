@@ -11,7 +11,7 @@ The goal of the project was to contribute metadata records for medieval Scandina
 
 <b>Methodology:</b>
 
-The Handrit.org records are publically available via their <a href="https://github.com/Handrit">GitHub repository</a> as <a href="https://tei-c.org/">TEI</a>-conformant XML files. For source-to-target data mapping, these files were reviewed using <a href="https://www.oxygenxml.com/">Oxygen XML Editor</a> and the <a href="https://tei-c.org/release/doc/tei-p5-doc/en/html/MS.html">TEI P5 Guidelines for Manuscript Description</a> were studied to develop a <a href="https://github.com/reord-berend/tei.xml2csv/blob/main/SDBM%20Fields%20to%20TEI-XML%20Path%20Equivalencies%20Table.pdf">schema crosswalk</a> documenting the <a href="https://en.wikipedia.org/wiki/XPath">XPath</a> where data corresponding to the SDBM fields may be retrieved.
+The Handrit.org records are publicly available via their <a href="https://github.com/Handrit">GitHub repository</a> as <a href="https://tei-c.org/">TEI</a>-conformant XML files. For source-to-target data mapping, these files were reviewed using <a href="https://www.oxygenxml.com/">Oxygen XML Editor</a> and the <a href="https://tei-c.org/release/doc/tei-p5-doc/en/html/MS.html">TEI P5 Guidelines for Manuscript Description</a> were studied to develop a <a href="https://github.com/reord-berend/tei.xml2csv/blob/main/SDBM%20Fields%20to%20TEI-XML%20Path%20Equivalencies%20Table.pdf">schema crosswalk</a> documenting the <a href="https://en.wikipedia.org/wiki/XPath">XPath</a> where data corresponding to the SDBM fields may be retrieved.
 
 This was achieved in <a href="https://jupyter.org/">Jupyter Notebook</a> through the <a href="https://www.anaconda.com/">Anaconda Distribution Platform</a> using the Python library <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">Beautiful Soup</a>, which can parse HTML/XML and is often utilized for web scraping. In the first phase (version 1), the Beautiful Soup code was developed based on individual records. The retrieved data was assigned to variables named after the SDBM fields. Once the code worked for one file, another file was attempted, which typically required modification to account for variations. This process was continued until the data could be successfully retrieved for each of the sample files. 
 
@@ -22,7 +22,7 @@ Once the code had been run successfully on the entire catalogue, the resulting C
 The full Handrit.org catalogue was downloaded on 17 August 2022. Of the total 15,189 records, only 1,951 fell within the chronological parameters (i.e., pre-1600 CE) of the SDBM, the rest were excluded. Being of Nordic origin, many of the records were written in Icelandic or Danish, and thus needed to be translated for an English-speaking audience. The spreadsheet of pre-1600 records was imported back into Jupyter Notebook, and the Python API for Google Translate (<a href="https://pypi.org/project/google-trans-new/">google_trans_new</a>, included with the Anaconda site packages) was run on specific fields (namely: titles, dates, materials, places, and binding) using indexing notation. Due to rate limiting, these had to be performed in batches.
 
 Batch imports were completed on 9 Nov 2022: SDBM_275436 thru SDBM_276012 (576 records) 
-and on 11 Nov 2022:
+and on 1_ Nov 2022:
 
 <a href="https://github.com/reord-berend/tei.xml2csv/blob/main/tei.xml2csv%20(vers.%202.1).py">Final version of TEI-XMLtoCSV code</a>
 
